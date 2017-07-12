@@ -1,0 +1,8 @@
+.DS_Store
+*/**/.DS_Store
+.idea/*
+out
+resources
+data
+algiii-trab-final.iml
+TrabFinal.iml
